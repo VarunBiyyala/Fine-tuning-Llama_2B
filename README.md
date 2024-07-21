@@ -45,9 +45,9 @@ An inference pipeline was created to generate code from textual descriptions. Th
 The performance of CodeCraft was evaluated using the following metrics:
 
 - **ROUGE Score**: To measure the quality of the generated code against reference code.
-![Rouge Score Image]()
+![Rouge Score Image](https://github.com/VarunBiyyala/Fine-tuning-Llama_2B/blob/main/Llama_Rouge_Score.JPG)
 - **Cosine Similarity**: To assess the semantic similarity between generated and reference code snippets.
-![Cosine SImilarity Image]()
+![Cosine SImilarity Image](https://github.com/VarunBiyyala/Fine-tuning-Llama_2B/blob/main/Llama_Cosine_Similarity.JPG)
 ## Results
 
 The results on the test data showed promising performance, with high ROUGE scores and strong cosine similarity values, indicating that the model effectively generates accurate and semantically meaningful code from textual descriptions.
